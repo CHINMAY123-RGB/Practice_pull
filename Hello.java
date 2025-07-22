@@ -4,5 +4,8 @@ class Hello{
       int b = 20;
       int a = 10;
         System.out.println("Adding a and b : " + (a+b));
+	int c = 30;
+	int d = 40;
+	char ch = 'A';
      }
 }
