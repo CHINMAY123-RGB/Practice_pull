@@ -6,6 +6,6 @@ class Hello{
         System.out.println("Adding a and b : " + (a+b));
 	int c = 30;
 	int d = 40;
-	
+	int j = 50;
      }
 }
